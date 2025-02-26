@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preetimaxien
-- 👀 I’m interested in Quality Analyst job profiles
-- 🌱 I’m currently learning Automation Testing with Selenium
-- 📫 How to reach me? You can reach me on +918291330166 and preetimaxien@gmail.com
+- 👀 I’m a Quality Analyst 
+- 🌱 I’m currently learning Automation Testing (Selenium, Appium)
+- 📫 How to reach me? You can reach me on +971 508955601, Whatsapp on +91 8291330166 and email on preetimaxien@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love finding defects in everything that I see or buy!
 
